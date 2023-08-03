@@ -14,7 +14,7 @@
     ?>
   <div class="container mt-5">
     <div class="row" id="gecko-details">
-      <!-- Gecko details will be displayed here -->
+  
 
     </div>
     <button class="btn btn-primary add-to-favorites" >Add to Favorites</button>

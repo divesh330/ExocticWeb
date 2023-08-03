@@ -1,4 +1,4 @@
-<!-- Favorites Page -->
+
 <!DOCTYPE html>
 <html>
 <head>
